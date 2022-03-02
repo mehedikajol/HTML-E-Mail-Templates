@@ -1,0 +1,8 @@
+This template is idea is mainly from youtube channel. 
+
+Channel Name: Keep Coding
+Channel URL: https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA
+
+Template is downloaded from MDB (Material Design for Bootstrap)
+Website URL: https://mdbootstrap.com/
+Template URL: https://mdbootstrap.com/previews/docs/latest/html/email-templates/blog-stories.html

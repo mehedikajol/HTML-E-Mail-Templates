@@ -1,0 +1,158 @@
+<mjml>
+	<mj-head> </mj-head>
+
+	<mj-body background-color="#dddddd" width="600px">
+		<!-- Header Section -->
+		<mj-section background-color="#ffffff">
+			<mj-column>
+				<mj-image
+					padding="0px"
+					src="./img/logo.png"
+					alt="logo of MDB"
+					align="center"
+					width="150px"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- End Header Section -->
+
+		<!-- Banner Section -->
+		<mj-section background-color="#ffffff">
+			<mj-column>
+				<mj-image
+					padding="0px"
+					src="./img/banner.jpg"
+					alt="Banner image"
+					width="600px"
+				/>
+			</mj-column>
+		</mj-section>
+		<!-- End Banner Section -->
+
+		<!-- Promo Section -->
+		<mj-section background-color="#ffffff">
+			<mj-column padding="15px 0">
+				<mj-text
+					padding="0px"
+					text-transform="uppercase"
+					color="#121212"
+					font-size="20px"
+					font-family="Arial"
+					align="center"
+				>
+					new in <strong>november</strong>
+				</mj-text>
+				<mj-text
+					padding="30px 60px 20px 60px"
+					text-transform="uppercase"
+					color="#121212"
+					font-size="14px"
+					font-family="Arial"
+					line-height="20px"
+					align="center"
+				>
+					Winter is coming. Shop our latest AW16 range, and prepare
+					for the damp, cold, Brithish weather.
+				</mj-text>
+				<mj-button
+					href="#"
+					text-transform="uppercase"
+					font-size="16px"
+					background-color="blue"
+					padding="10px"
+					color="#ffffff"
+				>
+					shop now
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<!-- End Promo Section -->
+
+		<!-- Product Showcase Section -->
+		<mj-section padding="10px 0" background-color="#ffffff">
+			<mj-column>
+				<mj-image
+					src="./img/product_01.jpg"
+					alt="Product 01"
+					padding="0 20px"
+				/>
+			</mj-column>
+			<mj-column>
+				<mj-text
+					padding-top="10px"
+					font-family="Arial"
+					font-size="20px"
+					text-transform="uppercase"
+					font-weight="bold"
+					color="#000000"
+				>
+					Blog Post One
+				</mj-text>
+				<mj-text
+					padding-top="10px"
+					font-family="Arial"
+					font-size="14px"
+					color="#000000"
+				>
+					Lorem ipsum dolor sit amet coni petur adipiscing elit.
+					Praesent at lacus faucibus orcil viverra..
+				</mj-text>
+				<mj-button
+					font-family="Arial"
+					href="#"
+					text-transform="uppercase"
+					background-color="transparent"
+					color="#999999"
+					border="1px solid #aaaaaa"
+					padding-left="0px"
+				>
+					read more
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section direction="rtl" padding="10px 0" background-color="#ffffff">
+			<mj-column>
+				<mj-image
+					src="./img/product_01.jpg"
+					alt="Product 01"
+					padding="0 20px"
+				/>
+			</mj-column>
+			<mj-column>
+				<mj-text
+					padding-top="10px"
+					font-family="Arial"
+					font-size="20px"
+					text-transform="uppercase"
+					font-weight="bold"
+					color="#000000"
+				>
+					Blog Post One
+				</mj-text>
+				<mj-text
+					padding-top="10px"
+					font-family="Arial"
+					align="justify"
+					font-size="14px"
+					color="#000000"
+				>
+					Lorem ipsum dolor sit amet coni petur adipiscing elit.
+					Praesent at lacus faucibus orcil viverra..
+				</mj-text>
+				<mj-button
+					font-family="Arial"
+					href="#"
+					text-transform="uppercase"
+					background-color="transparent"
+					color="#999999"
+					border="1px solid #aaaaaa"
+					padding-left="0px"
+				>
+					read more
+				</mj-button>
+			</mj-column>
+		</mj-section>
+
+		<!-- End Product Showcase Section -->
+	</mj-body>
+</mjml>

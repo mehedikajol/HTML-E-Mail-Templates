@@ -1,0 +1,9 @@
+{
+	"liveServer.settings.port": 5504,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"prettier.tabWidth": 4,
+	"prettier.useEditorConfig": true,
+	"prettier.useTabs": true
+}
